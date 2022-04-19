@@ -13,7 +13,7 @@ Refactoring application from classes to function, using typescript.
 Clone project
 
 ```bash
-  git clone https://github.com/Bilusca/reafactoring-class-to-function.git
+  git clone https://github.com/Bilusca/gorestaurant.git
 ```
 
 Install dependecies
